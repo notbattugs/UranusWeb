@@ -67,7 +67,7 @@ const Comp1 = () => {
         }}
       >
         {' '}
-        <App width="500px" height="500px"></App>
+        <App widht="500px" height="500px"></App>
         {/* <img
           // src="https://youmap.com/wp-content/uploads/uploads/2020/04/contact_bg.png.webp"
           src="https://youmap.com/wp-content/uploads/uploads/2020/03/planet-4.png"

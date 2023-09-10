@@ -42,7 +42,7 @@ const HeaderComp = () => {
               gap: 20,
             }}
           >
-            <App width="50px" height="50px"></App>
+            <App widht="50px" height="50px"></App>
             <h1 style={{ fontSize: '20px', fontWeight: 600, color: 'white ' }}>
               Uranus
             </h1>
