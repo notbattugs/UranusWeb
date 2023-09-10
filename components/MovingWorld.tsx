@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import React, { useRef, useEffect } from 'react';
 
-const App: React.FC = ({ width, height }: any) => {
+const App = ({ width, height }: any) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   let camera: THREE.PerspectiveCamera;
   let scene: THREE.Scene;
