@@ -14,7 +14,6 @@ export function Index() {
       style={{
         width: '100vw',
         height: 'auto',
-        // background: '#151e3d',
         transition: 'all 7s',
         background: '#000',
         cursor: ` url('https://assets.wizardingworld.com/js/patronus/assets/images/ui/cursor.png') 16 16, auto`,
@@ -42,7 +41,6 @@ export function Index() {
           backgroundSize: '20px 20px',
           backgroundImage:
             'linear-gradient(90deg, #222 1px, transparent 0px), linear-gradient(#222 1px, transparent 0px)',
-          // boxShadow: 'inset 0 100px 2em #444, 1 0  100px rgb(0, 0 , 0)',
         }}
       >
         <h1
@@ -81,7 +79,6 @@ export function Index() {
             gap: '1px',
           }}
         >
-          {' '}
           Copyright © 2023 - 6969 UrAnus Inc. UrAnus is a registered trademark.
           Protected by MN Patents.
         </p>
