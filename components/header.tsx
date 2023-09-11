@@ -23,7 +23,23 @@ const styles = {
 const HeaderComp = () => {
   return (
     <>
-      <div style={styles.cont}>
+      <div
+        style={{
+          width: '100vw',
+          height: '86px',
+          display: 'flex',
+          backgroundColor: '#000',
+          justifyContent: 'space-evenly',
+          alignItems: 'center',
+          flexDirection: 'row',
+          gap: '20px',
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          boxShadow: ' 1px 5px 5px #3B3B3B',
+          zIndex: 1,
+        }}
+      >
         <div
           style={{
             display: 'flex',
