@@ -67,13 +67,18 @@ const Comp1 = () => {
         }}
       >
         {' '}
-        <App widht="500px" height="500px"></App>
+        {/* <App widht="500px" height="500px"></App> */}
         {/* <img
           // src="https://youmap.com/wp-content/uploads/uploads/2020/04/contact_bg.png.webp"
           src="https://youmap.com/wp-content/uploads/uploads/2020/03/planet-4.png"
           alt=""
           style={{ width: '50%', height: 'auto' }}
         /> */}
+        <img
+          src="https://i.ibb.co/hBWmfJs/uranushero-removebg-preview.png"
+          alt=""
+          style={{ width: 'auto', height: '80%' }}
+        />
       </div>
     </div>
   );

@@ -42,7 +42,12 @@ const HeaderComp = () => {
               gap: 20,
             }}
           >
-            <App widht="50px" height="50px"></App>
+            {/* <App widht="50px" height="50px"></App> */}
+            <img
+              src="https://i.ibb.co/hBWmfJs/uranushero-removebg-preview.png"
+              alt=""
+              style={{ width: 'auto', height: '50px' }}
+            />
             <h1 style={{ fontSize: '20px', fontWeight: 600, color: 'white ' }}>
               Uranus
             </h1>
