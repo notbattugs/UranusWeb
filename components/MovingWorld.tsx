@@ -1,7 +1,9 @@
 // import * as THREE from 'three';
 // import React, { useRef, useEffect } from 'react';
 
-const App = ({ widht, height }: any) => {
+// const App = ({ widht, height }: any) => {
+
+const App = () => {
   //   const canvasRef = useRef<HTMLCanvasElement>(null);
   //   let camera: THREE.PerspectiveCamera;
   //   let scene: THREE.Scene;
